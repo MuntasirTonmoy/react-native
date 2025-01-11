@@ -1,8 +1,9 @@
 {
-    "workbench.colorCustomizations": {
-        "editorError.foreground": "#ff3c00",
-        "activityBar.background": "#442709",
-        "titleBar.activeBackground": "#5F360C",
-        "titleBar.activeForeground": "#FEFAF6"
-    }
+  "workbench.colorCustomizations": {
+    "editorError.foreground": "#ff3c00",
+    "activityBar.background": "#442709",
+    "titleBar.activeBackground": "#5F360C",
+    "titleBar.activeForeground": "#FEFAF6"
+  },
+  "cSpell.words": ["Pressable"]
 }
